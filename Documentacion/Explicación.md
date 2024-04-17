@@ -1,7 +1,13 @@
 # Proyecto ETL
+SSIS (Integration Services de SQL Server) es una plataforma de Microsoft utilizada para la integración de datos y la administración de procesos de extracción, transformación y carga (ETL).
+
 En este proyecto se documenta la creacion de un ETL del data warehouse DATAMARTVENTAS, 
 con el objetivo de llenar sus tablas, utilizando los datos de la base de datos NORTHWIND.
 Para despues crear un JOB en base al proyecto de ETL realizado con anterioridad.
+
+
+<img src="./Clientes10.jpg" alt="MarineGEO circle logo" style="height: 500px; width:800px;"/>
+
 
 ### Tabla 'Clientes'
 ##### 1. Primeramente se hace una conexion a la base de datos NORTHWIND para obtener los datos de la tabla Customers (clientes)
